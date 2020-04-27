@@ -7,6 +7,17 @@ ol, ul {
   padding-left: 30px;
 }
 
+#btnbold {
+  font-weight: bold;
+  color: white;
+  background-color: rgb(75, 75, 75);
+  height: 30px;
+}
+
+#statusdiv {
+  font-size: 30px;
+}
+
 .board-row:after {
   clear: both;
   content: "";
